@@ -1,5 +1,5 @@
 leftnav:
-- identifier: 646f659d-3b6b-4f9c-8e6a-45ef14384d3d
+- identifier: external--318172753-1669048380728
   name: Lecture Videos
-  url: /pages/lecture-videos
+  url: https://www.youtube.com/channel/UCooO6qgMRkDVapz4Tql3OHw
   weight: 10
