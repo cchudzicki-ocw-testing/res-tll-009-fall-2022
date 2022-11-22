@@ -5,7 +5,8 @@ draft: false
 file: /courses/res-tll-009-iit-joint-entrance-exam-preparation-fall-2022/res-tll-009-iit.png
 file_type: image/png
 image_metadata:
-  caption: The instructor, Ankur Gupta writes out math notes on a lightboard.
+  caption: The instructor, Ankur Gupta writes out math notes on a lightboard. (Image
+    by Ankur Gupta).
   credit: (Image by Ankur Gupta).
   image-alt: 'A screenshot of the instructor, Ankur Gupta writing on a lightboard. '
 learning_resource_types: []
